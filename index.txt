@@ -1,1 +1,0 @@
-Pozdrav sa mog novog WSL Linuxa!
