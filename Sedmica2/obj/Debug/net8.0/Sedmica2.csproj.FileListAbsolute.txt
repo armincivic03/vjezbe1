@@ -1,0 +1,15 @@
+/home/armin/vjezbe1/Sedmica2/bin/Debug/net8.0/Sedmica2
+/home/armin/vjezbe1/Sedmica2/bin/Debug/net8.0/Sedmica2.deps.json
+/home/armin/vjezbe1/Sedmica2/bin/Debug/net8.0/Sedmica2.runtimeconfig.json
+/home/armin/vjezbe1/Sedmica2/bin/Debug/net8.0/Sedmica2.dll
+/home/armin/vjezbe1/Sedmica2/bin/Debug/net8.0/Sedmica2.pdb
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.GeneratedMSBuildEditorConfig.editorconfig
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.AssemblyInfoInputs.cache
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.AssemblyInfo.cs
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.csproj.CoreCompileInputs.cache
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.sourcelink.json
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.dll
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/refint/Sedmica2.dll
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.pdb
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/Sedmica2.genruntimeconfig.cache
+/home/armin/vjezbe1/Sedmica2/obj/Debug/net8.0/ref/Sedmica2.dll
